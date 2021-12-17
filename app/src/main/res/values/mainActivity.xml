@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="turnBlue" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#0000FF</item>
+        <item name="android:textSize">100px</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="buttonStyle" parent="Widget.AppCompat.Button.Colored">
+        <item name="android:color">#0000FF</item>
+        <item name="android:borderlessButtonStyle">@style/Widget.AppCompat.Button.Borderless</item>
+        <item name="android:width">300dp</item>
+        <item name="android:height">100dp</item>
+        <item name="android:textSize">20dp</item>
+
+
+    </style>
+</resources>
